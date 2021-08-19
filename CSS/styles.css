@@ -13,7 +13,7 @@ body {
     font-family: "Poppins", sans-serif;
     font-size: 1.6rem;
     font-weight: 400;
-    background-color: #fff;
+    background-color: rgb(228, 231, 248);
     color: #243a6f;
     position: relative;
     z-index: 1;
@@ -62,7 +62,7 @@ li {
     position: relative;
     width: 100%;
     min-height: 100vh;
-    background-color: #d1e2e9;
+    background-color: #f5f7a4;
     overflow: hidden;
 }
 
@@ -214,18 +214,18 @@ li {
   }
   
   .hero-content h2 {
-    color: #b888ff;
+    color: #2c0b5e;
     font-size: 3rem;
     font-weight: 700;
     margin-bottom: 1rem;
   }
   
   .hero-content .discount {
-    color: #fbb419;
+    color: #f04a3e;
   }
   
   .hero-content h1 span {
-    color: #253b70;
+    color: #14378a;
     font-size: 6rem;
     font-weight: 700;
     display: block;
@@ -235,7 +235,7 @@ li {
   
   .btn {
     display: inline-block;
-    background-color: #fc7c7c;
+    background-color: #df5555;
     padding: 1.2rem 4rem;
     color: #fff;
     font-weight: 600;
